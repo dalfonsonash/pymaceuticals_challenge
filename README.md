@@ -1,3 +1,3 @@
 # pymaceuticals_challenge
 Module 5 Challenge: Pymaceuticals
-Go to: Pymaceuticals/Starter_Code/Pymaceuticals/scc_study.ipynb, for assignment submission.
+Go to: Module 5 folder and click on: scc_study.ipynb, for assignment submission.
