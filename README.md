@@ -1,6 +1,8 @@
 # pymaceuticals_challenge
 Go to: Module 5 folder and click on: scc_study.ipynb, for assignment submission.
+
 Module 5 Challenge: Pymaceuticals
+
 Background:
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
